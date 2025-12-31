@@ -1,1 +1,1 @@
-# china-mechatronics-resource-pool-
+#项目首页说明
